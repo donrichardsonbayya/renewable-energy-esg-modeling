@@ -1,10 +1,10 @@
-# 🌱 Renewable Energy ESG Modeling
+# Renewable Energy ESG Modeling
 
 This project uses machine learning to identify how **Environmental, Social, and Governance (ESG)** factors influence renewable energy adoption across countries. Developed as part of an academic assignment, the project showcases skills in data cleaning, feature engineering, and advanced regression modeling.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Understand which ESG indicators are most predictive of **renewable energy consumption** (% of total energy use).
 - Predict renewable energy adoption using robust regression models.
@@ -12,7 +12,7 @@ This project uses machine learning to identify how **Environmental, Social, and 
 
 ---
 
-## 🧪 Machine Learning Workflow
+## Machine Learning Workflow
 
 - **Data Source**: World Bank Open Data (manually compiled)
 - **Target Variable**: Renewable energy consumption (% of total energy)
@@ -27,7 +27,7 @@ This project uses machine learning to identify how **Environmental, Social, and 
   - Scaled with `StandardScaler`
   - Correlation check for multicollinearity
 
-### 📈 Models Used
+### Models Used
 
 | Model          | MAE   | MSE    | R² Score |
 |----------------|-------|--------|----------|
@@ -39,7 +39,7 @@ This project uses machine learning to identify how **Environmental, Social, and 
 
 ---
 
-## 📊 Key Insights (From Final Report)
+## Key Insights (From Final Report)
 
 - **Access to clean fuels** and **strong rule of law** are consistently associated with higher renewable energy use.
 - Countries with **better governance scores** (e.g., corruption control, legal frameworks) are more sustainable.
@@ -48,7 +48,7 @@ This project uses machine learning to identify how **Environmental, Social, and 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 enewable-energy-esg-modeling/
 ├── data/
@@ -63,7 +63,7 @@ enewable-energy-esg-modeling/
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 
 - Python (pandas, seaborn, scikit-learn, xgboost)
 - Jupyter Notebook
@@ -71,7 +71,7 @@ enewable-energy-esg-modeling/
 
 ---
 
-## 📌 Recommendations
+## Recommendations
 
 - Prioritize investments in countries with high legal stability and fuel accessibility.
 - Tailor policy based on digital, social, and energy usage metrics.
@@ -79,6 +79,6 @@ enewable-energy-esg-modeling/
 
 ---
 
-## 👤 Author
+## Author
 
 **Don Richardson Bayya**  
